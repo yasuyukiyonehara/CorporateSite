@@ -14,3 +14,11 @@ Monoeの活動を紹介するためのサイトです。
 - お問い合わせ
 
 
+
+# Local開発環境
+
+`docker-compose up -d`
+
+`docker-compose down`
+
+
